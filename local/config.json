@@ -1,0 +1,9 @@
+{
+    "keyvault_url": "https://KEYVAULTNAME.vault.azure.net/",
+    "speech_secret_name": "",
+    "speech_service_region": "",
+    "luis_secret_name": "",
+    "luis_app_id_secret_name": "",
+    "luis_endpoint": "https://REGION.api.cognitive.microsoft.com/",
+    "tessel_address": "http://xxx.xxx.x.x:8080"
+}
